@@ -22,7 +22,7 @@
 * – define messages exchanged by apps and actions taken
 * – use services provided by lower layer protocols
 
-[1](Chapter07/1.png)
+![1](Chapter07/1.png)
 
 # 7.1 DNS—the Domain Name System域名系统
 
@@ -69,7 +69,7 @@
 
 * 层次型命名机制
 
-[2](Chapter07/2.png)
+![2](Chapter07/2.png)
 
 ## Internet的域名结构
 
@@ -131,7 +131,7 @@
 
 Domain_name Time_to_live Class Type Value
 
-[3](Chapter07/3.png)
+![3](Chapter07/3.png)
 
 # 7.1.3 域名服务器
 
@@ -139,7 +139,7 @@ Domain_name Time_to_live Class Type Value
 
 *  每个区域有一个主域名服务器和若干个备份域名服务器，区域的边界划分是人工设置的，比如：edu.cn ustb.edu.cn是两个不同的区域，分别有各自的域名服务器。
 
-[4](Chapter07/4.png)
+![4](Chapter07/4.png)
 
 ## 域名解析：将域名转为对应IP地址
 
@@ -149,7 +149,7 @@ Domain_name Time_to_live Class Type Value
 
 *  如果请求中的域名在远端，域名服务器将启动一次远程查询。采用迭代查询方法。这是由于许多域名服务器太忙了，该方法把重负压在了查询发起方。
 
-[5](Chapter07/5.png)
+![5](Chapter07/5.png)
 
 域名解析算法
 
@@ -195,7 +195,7 @@ E-mail服务，为Internet用户之间发送和接收信息提供了一种快捷
 
 * 简单邮件传输协议SMTP（Simple Mail Transfer Protocol）
 
-[6](Chapter07/6.png)
+![6](Chapter07/6.png)
 
 ## 电子邮件系统提供的功能
 
@@ -242,13 +242,13 @@ E-mail服务，为Internet用户之间发送和接收信息提供了一种快捷
 RFC 5322（最新）—The Internet Message Format 
 邮件由信封、数个头字段、一个空行和邮件体构成。
 
-[7](Chapter07/7.png)
+![7](Chapter07/7.png)
 
 ## MIME多用途Internet邮件扩展
 
 MIME（Multipurpose Internet Mail Extensions），增加了对图像、声音、视频、可执行文件等的支持。为传送非ASCII码的邮件定义了编码规则。
 
-[8](Chapter07/8.png)
+![8](Chapter07/8.png)
 
 # 7.2.4 Message Transfer
 
@@ -263,7 +263,7 @@ MIME（Multipurpose Internet Mail Extensions），增加了对图像、声音、
 –客户发送邮件，服务器予以确认
 –两个方向的发送完成之后，释放连接。
 
-[9](Chapter07/9.png)
+![9](Chapter07/9.png)
 
 # 7.2.5 最后传递FinalDelivery
 
@@ -290,7 +290,7 @@ IMAP是较早使用的最终交付协议POP3的改进版。POP3通常将邮件�
 –to address mail by using attributes (e.g., give me the first message from Alice).
 –to perform searches on the server to find the messages that satisfy certain criteria so that only those messages are fetched by the client.
 
-[10](Chapter07/10.png)
+![10](Chapter07/10.png)
 
 # 7.3 The World Wide Web
 
@@ -328,7 +328,7 @@ Mark Zuckerberg开始创建Facebook时是Harvard学生, Sergey Brin及Larry Page
 
 ## Architectural Overview
 
-[11](Chapter07/11.png)
+![11](Chapter07/11.png)
 
 ## 客户端
 
@@ -352,11 +352,11 @@ Mark Zuckerberg开始创建Facebook时是Harvard学生, Sergey Brin及Larry Page
 
 ## 某些公共的URL方案
 
-[12](Chapter07/12.png)
+![12](Chapter07/12.png)
 
 ## MIME类型
 
-[13](Chapter07/13.png)
+![13](Chapter07/13.png)
 
 ## 服务器端
 
@@ -370,7 +370,7 @@ Mark Zuckerberg开始创建Facebook时是Harvard学生, Sergey Brin及Larry Page
 
 ## 服务器端处理多个请求
 
-[14](Chapter07/14.png)
+![14](Chapter07/14.png)
 
 ## 服务器端
 
@@ -397,13 +397,13 @@ Mark Zuckerberg开始创建Facebook时是Harvard学生, Sergey Brin及Larry Page
 
 ## HTML----超文本标记语言输出
 
-[15](Chapter07/15.png)
+![15](Chapter07/15.png)
 
 ## CSS层叠样式表
 
 更好地控制格式，同一格式可被多个网页应用
 
-[16](Chapter07/16.png)
+![16](Chapter07/16.png)
 
 # 7.3.3 Dynamic Web Pages and Web Applications
 
@@ -417,7 +417,7 @@ WWW用作应用程序及服务：
 
 ## Dynamic Web Pages: 如地图服务
 
-[17](Chapter07/17.png)
+![17](Chapter07/17.png)
 
 * 直接返回页面
 * 页面中包含应用程序
@@ -439,7 +439,7 @@ WWW用作应用程序及服务：
 
 ## 服务器端动态Web页面生成：PHP
 
-[18](Chapter07/18.png)
+![18](Chapter07/18.png)
 
 ## 服务器端动态Web页面生成
 
@@ -461,11 +461,11 @@ WWW用作应用程序及服务：
 
 ## 客户端动态Web页面生成: Javascript
 
-[19](Chapter07/19.png)
+![19](Chapter07/19.png)
 
 ## PHP与Javascript
 
-[20](Chapter07/20.png)
+![20](Chapter07/20.png)
 
 ## 客户端动态Web页面生成
 
@@ -495,7 +495,7 @@ Asageneralrule,JavaScriptprogramsareeasiertowrite,Javaappletsexecutefaster,andAc
 
 ## 文档对象模型DOM
 
-[21](Chapter07/21.png)
+![21](Chapter07/21.png)
 
 ## 可扩展标记语言XML
 
@@ -509,7 +509,7 @@ Asageneralrule,JavaScriptprogramsareeasiertowrite,Javaappletsexecutefaster,andAc
 
 * XML中的字段可以进一步划分
 
-[23](Chapter07/23.png)
+![23](Chapter07/23.png)
 
 * XML容易被程序分析
 
@@ -523,7 +523,7 @@ The client just constructsthe request as an XML message and sends it to the serv
 
 ## 用来生成动态页面的不同技术
 
-[24](Chapter07/24.png)
+![24](Chapter07/24.png)
 
 # 7.3.4 HTTP—The HyperText Transfer Protocol
 
@@ -533,11 +533,11 @@ The client just constructsthe request as an XML message and sends it to the serv
 
 ## HTTP的连接
 
-[25](Chapter07/25.png)
+![25](Chapter07/25.png)
 
 ## HTTP的方法：支持的操作 和 HTTP的缓存
 
-[26](Chapter07/26.png)
+![26](Chapter07/26.png)
 
 # 7.3.5移动Web
 
