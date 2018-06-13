@@ -122,3 +122,15 @@ int main(int argc,char * argv[])
     png.write("sample2.png");
 }
 ```
+
+## 我的环境：```cygwin```,```g++ (GCC) 7.3.0```
+
+## 编译,运行
+
+```shell
+$ g++ main.cpp -lpng
+
+$ ./a.exe
+```
+
+## 结果
