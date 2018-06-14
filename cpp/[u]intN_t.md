@@ -1,4 +1,4 @@
-## ```uint8_t, uint16_t, uint32_t, uint63_t```
+## ```uint8_t, uint16_t, uint32_t, uint64_t```
 
 在c/c++中，很多以```_t```结尾的数据类型，如```uint8_t```,```size_t```等等，乍一看什么鬼，实际上```_t```的意思就是```typedef```的后缀缩写。具体如下：
 
