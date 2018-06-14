@@ -1,6 +1,6 @@
 ## ```PNG``` - Portable Network Graphics - 便携式网络图形
 
-[]<https://baike.baidu.com/item/png/174154?fr=aladdin>
+![百度百科]<https://baike.baidu.com/item/png/174154?fr=aladdin>
 
 * 便携式网络图形（Portable Network Graphics）是一种无损压缩的位图片形格式.
 * 其设计目的是试图替代GIF和TIFF文件格式，同时增加一些GIF文件格式所不具备的特性。
@@ -14,7 +14,7 @@
 
 ## JPG/JPEG - Joint Photographic Experts GROUP - 联合摄影专家组
 
-[]<https://baike.baidu.com/item/jpg>
+![百度百科]<https://baike.baidu.com/item/jpg>
 
 * jpg全名是JPEG，是图片的一种格式。
 * JPEG图片以24位颜色存储单个位图。
@@ -23,7 +23,7 @@
 
 ## BMP - Bitmap - 位图
 
-[]<https://baike.baidu.com/item/BMP/35116?fr=aladdin>
+![百度百科]<https://baike.baidu.com/item/BMP/35116?fr=aladdin>
 
 典型的BMP图像文件由四部分组成：
 
