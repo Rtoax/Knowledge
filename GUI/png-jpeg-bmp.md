@@ -1,6 +1,6 @@
 ## ```PNG``` - Portable Network Graphics - 便携式网络图形
 
-(百度百科)<https://baike.baidu.com/item/png/174154?fr=aladdin>
+!(百度百科)<https://baike.baidu.com/item/png/174154?fr=aladdin>
 
 * 便携式网络图形（Portable Network Graphics）是一种无损压缩的位图片形格式.
 * 其设计目的是试图替代GIF和TIFF文件格式，同时增加一些GIF文件格式所不具备的特性。
