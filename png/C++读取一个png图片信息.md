@@ -236,7 +236,7 @@ true
 
 ## lenna测试用图
 
-
+[](lenna.png)
 
 ## 科普时间：lenna的由来 
 
