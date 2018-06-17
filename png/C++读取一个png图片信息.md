@@ -1,3 +1,15 @@
+## PNG图片格式
+
+* PNG - Portable Network Graphics - 便携式网络图形
+* 便携式网络图形（Portable Network Graphics）是一种无损压缩的位图片形格式.
+* 其设计目的是试图替代GIF和TIFF文件格式，同时增加一些GIF文件格式所不具备的特性。
+* PNG的名称来源于“可移植网络图形格式(Portable Network Graphic Format，PNG)”，也有一个非官方解释“PNG's Not GIF”。
+* PNG使用从LZ77派生的无损数据压缩算法，一般应用于JAVA程序、网页或S60程序中，原因是它压缩比高，生成文件体积小。
+* 8字节的PNG文件署名域用来识别该文件是不是PNG文件。该域的值是：
+* 十进制数: 137 80 78 71 13 10 26 10 
+* 十六进制数: 89 50 4e 47 0d 0a 1a 0a
+
+## 用C++读取PNG图片
 
 ```cpp
 #include <iostream>
@@ -12,6 +24,7 @@
 
 #ifndef _PNG_H
 #define _PNG_H
+
 class png {
 public:
     png(const std::string& fname);
@@ -40,7 +53,6 @@ private:
 	std::unique_ptr<char> m_data;
 };
 #endif // _PNG_H
-
 
 #define BIGENDIAN 4321
 #define LILENDIAN 1234
