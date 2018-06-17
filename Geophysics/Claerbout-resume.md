@@ -1,4 +1,4 @@
-# Abbreviated biography of Jon Claerbout
+# Abbreviated biography of Jon Claerbout "Claerbout教授的简历"
 
 ## ```Websit```
 
@@ -6,7 +6,12 @@ http://sepwww.stanford.edu/data/media/public/sep/prof/bio.html
 
 ## ```Education```
 
-```Education```= (M.I.T., B.S. physics, 1960; M.S. 1963 geophysics thesis; Ph.D. 1967, geophysics thesis advisor memorial video), 
+```Education```= (M.I.T., B.S. physics, 1960; M.S. 1963 geophysics; Ph.D. 1967, geophysics) 
+
+* 本科：物理学；
+* 硕士：地球物理学
+** 论文：http://sepwww.stanford.edu/data/media/public/sep/prof/claerbout_ms_thesis.pdf ；
+* 博士：地球物理学，
 
 ## ```Professor```
 
