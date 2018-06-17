@@ -220,3 +220,46 @@ int main() {
 	return 0;
 }
 ```
+
+## 编译与运行
+
+```
+$ g++ main-02.cpp -w -lm
+$ ./a.exe
+hit chunk of size: 13
+got ihdr chunk
+hit chunk of size: 1
+hit chunk of size: 473761
+got idat chunk
+true
+```
+
+## lenna测试用图
+
+
+
+## 科普时间：lenna的由来 - http://www.cnblogs.com/emouse/archive/2013/01/27/2878785.html
+
+最开始看到这张原图也是有点吃惊，原来司空见惯的Lenna头像图竟然是这张图的一小部分，那么这样经典的图片是怎么来的呢？
+
+Lenna/Lena是谁？
+
+从comp.compression FAQ中， 我们知道Lenna/Lena是一张数字化了的1972年12月份的《花花公子》折页。Lenna这个单词是在《花花公子》里的拼法，Lena是她名字的瑞典语拼法。（在英语中，为了正确发音，Lena有时被拼做Lenna。）最后的关于Lena Soderberg (ne Sjooblom)的报道说她现在居住在她的本国瑞典，有着幸福的婚姻并是三个孩子的妈妈，在liquor monopoly州有一份工作。1988年，她被某个瑞典计算机相关杂志采访，因为她的照片而发生的一切令她很高兴。这是她第一次得知她的照片在计算机领域被使用。
+
+为何要使用Lenna图像？
+
+David C. Munson. 在“A Note on Lena” 中给出了两条理由：首先，Lenna图像包含了各种细节、平滑区域、阴影和纹理，这些对测试各种图像处理算法很有用。它是一副很好的测试图像！第二，Lena图像里是一个很迷人的女子。所以不必奇怪图像处理领域里的人（大部分为男性）被一副迷人的图像吸引。
+
+谁制作了Lenna图像？
+
+在1999年10月29日，我收到一封来自Chuck McNanis的email，里面告诉我们这个曾经扫描了Lenna图像的“不知名的科研人员”是William K. Pratt博士。
+
+我在图像处理研究所的图像处理实验室作为一个系统程序员工作了5年（'78-'83），这个实验室发布了Lenna图像和其他一些被人们经常引用做“The baboon image”的图像（包括Manril）。这个“不知名的科研人员”是William K. Pratt博士，现在在Sun Microsystems。他当时正在写一本关于图像处理的书，他需要几张标准图像。For a long time the folded up centerfold that had been the basis for that image was in the file cabinet at the lab. I went back in 1997 to visit and the lab has undergone many changes and the original image files were nowhere to be found. The original distribution format was 1600BPI 9-track tape with each color plane stored separately.
+
+--Chuck McManis (USC Class of '83)
+
+你想看原始的Lenna图像么？
+
+标准的数字Lena图像只是原始图像的脸和露肩特写。最近Chuck Rosenberg获得了原始的《花花公子》杂志的图像，并把它放在网上。下面是相关的一组图片。
+
+据说1997年第五十届IS&T，邀請她参加，她的反应是“那么多年了，大家一定看的很腻吧”有人甚至把 Lena 称为 “The First Lady of Internet”。
