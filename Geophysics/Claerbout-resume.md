@@ -1,6 +1,6 @@
 ## Abbreviated biography of Jon Claerbout "Claerbout教授的简历"
 
-[](qwqw)
+[123123](qwqw.png)
 
 ## ```Websit```
 
