@@ -238,7 +238,9 @@ true
 
 
 
-## 科普时间：lenna的由来 - http://www.cnblogs.com/emouse/archive/2013/01/27/2878785.html
+## 科普时间：lenna的由来 
+
+网址 - http://www.cnblogs.com/emouse/archive/2013/01/27/2878785.html
 
 最开始看到这张原图也是有点吃惊，原来司空见惯的Lenna头像图竟然是这张图的一小部分，那么这样经典的图片是怎么来的呢？
 
