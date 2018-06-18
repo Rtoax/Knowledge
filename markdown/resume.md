@@ -63,6 +63,7 @@
         <td>1</td>
         <td>2</td>
         <td>3</td>
+        <td>平台</td>
         <td>备注</td>
     </tr>
     <tr>
@@ -70,6 +71,7 @@
         <td>GCC/C</td>
         <td>Java</td>
         <td>Matlab</td>
+        <td>Linux/Windows</td>
         <td>按熟练程度</td>
     </tr>
     <tr>
@@ -77,6 +79,7 @@
         <td>CUDA（GPU加速）</td>
         <td>MPI（多节点）</td>
         <td>OpenMP（多线程）</td>
+        <td>Linux</td>
         <td>按熟练程度</td>
     </tr>
     <tr>
@@ -84,6 +87,7 @@
         <td>GTK（GNU ToolKit）</td>
         <td>Java AWT/Swing</td>
         <td>Qt-QApplication</td>
+        <td>Linux</td>
         <td>按熟练程度</td>
     </tr>
 </table>
