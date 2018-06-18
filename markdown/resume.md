@@ -141,5 +141,45 @@
         <td>通讯作者</td>
         <td>GPU多线程加速</td>
     </tr>
+    <tr>
+        <td>3</td>
+        <td>三维声波有限差分正演模拟</td>
+        <td>会议论文</td>
+        <td>已发表</td>
+        <td>第一作者</td>
+        <td>多节点并行运算</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>基于GPU加速的弹性波TTI介质正演模拟</td>
+        <td>会议论文</td>
+        <td>已发表</td>
+        <td>第一作者</td>
+        <td>GPU多线程加速</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>三维Poynting矢量及成像优化</td>
+        <td>会议论文</td>
+        <td>已发表</td>
+        <td>第一作者</td>
+        <td>多节点并行运算</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>三维VTI介质逆时偏移成像方法研究</td>
+        <td>会议论文</td>
+        <td>已发表</td>
+        <td>第一作者</td>
+        <td>GPU多线程加速</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Multi-grid Tomography Inversion Based on Gauss Bean Migration</td>
+        <td>会议论文</td>
+        <td>已发表</td>
+        <td>第三作者</td>
+        <td>SEG</td>
+    </tr>
 </table>
 
