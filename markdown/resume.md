@@ -6,6 +6,18 @@
 
 ## 基本信息
 <table>
+    <thead>
+        <tr>
+            <th>名称</th>
+            <th>值</th>
+            <th>备注</th>
+        </tr>
+        <td>姓名</td>
+        <td>出生年月</td>
+        <td>学历</td>
+    </thead>
+</table>
+<table>
     <tr>
         <td>姓名</td>
         <td>出生年月</td>
