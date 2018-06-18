@@ -2,7 +2,7 @@
 
 ## 免冠照片
 
-![一寸照片](rongtao.jpg)
+![一寸照片](rongtao1.jpg)
 
 ## 基本信息
 <table>
