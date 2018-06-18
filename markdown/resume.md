@@ -203,20 +203,44 @@
     <tr>
         <td>序号</td>
         <td>方向</td>
-        <td>语言/工具</td>
+        <td>语言</td>
+        <td>HPC</td>
         <td>网址</td>
     </tr>
     <tr>
         <td>1</td>
-        <td>二、三维VTI正演模拟软件</td>
-        <td>GCC/C,CUDA(GPU),GTK</td>
+        <td>二、三维VTI介质正演模拟软件</td>
+        <td>GCC/C,GTK</td>
+        <td>CUDA(GPU)</td>
         <td>https://github.com/Rtoax/VTI-FD-CUDA-GTK</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>二、三维TTI逆时偏移成像</td>
-        <td>GCC/C,CUDA(GPU)</td>
+        <td>二、三维TTI介质逆时偏移成像</td>
+        <td>GCC/C</td>
+        <td>CUDA(GPU)</td>
         <td>https://github.com/Rtoax/2D3D-TI-FD-RTM-cuda</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>二维VTI介质逆时偏移成像</td>
+        <td>GCC/C</td>
+        <td>MPI(多节点/核)</td>
+        <td>https://github.com/Rtoax/2D-VTI-FD-RTM-mpich</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>三维全波形反演</td>
+        <td>GCC/C</td>
+        <td>MPI(多节点/核)</td>
+        <td>https://github.com/Rtoax/3D-ISO-FD-FWI-mpich</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>VTI介质正演模拟和射线追踪可视化</td>
+        <td>Java,GCC/C</td>
+        <td>AWT/Swing,JNI</td>
+        <td>https://github.com/Rtoax/Seismic-Processing</td>
     </tr>
 </table>
 
