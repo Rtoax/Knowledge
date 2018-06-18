@@ -118,89 +118,18 @@
     </tr>
 </table>
 
-## 研究成果
-<table>
-    <tr>
-        <td>研究成果</td>
-        <td>论文||软件||专利</td>
-        <td>检索</td>
-        <td>状态</td>
-        <td>位次</td>
-        <td>备注</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>梯度优化方法在多重网格尺波形反演中的应用研究</td>
-        <td>EI</td>
-        <td>已发表</td>
-        <td>第一作者</td>
-        <td>多节点并行</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>基于弹性波动方程的TTI介质逆时偏移与ADCIGs提取</td>
-        <td>SCI</td>
-        <td>已录用</td>
-        <td>通讯作者</td>
-        <td>GPU多线程</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>三维声波有限差分正演模拟</td>
-        <td>会议</td>
-        <td>已发表</td>
-        <td>第一作者</td>
-        <td>多节点并行</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>基于GPU加速的弹性波TTI介质正演模拟</td>
-        <td>会议</td>
-        <td>已发表</td>
-        <td>第一作者</td>
-        <td>GPU多线程</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>三维Poynting矢量及成像优化</td>
-        <td>会议</td>
-        <td>已发表</td>
-        <td>第一作者</td>
-        <td>多节点并行</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>三维VTI介质逆时偏移成像方法研究</td>
-        <td>会议</td>
-        <td>已发表</td>
-        <td>第一作者</td>
-        <td>GPU多线程</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>Multi-grid Tomography Inversion Based on Gauss Bean Migration</td>
-        <td>会议</td>
-        <td>已发表</td>
-        <td>第三作者</td>
-        <td>SEG</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>多分量地震数据联合成像软件</td>
-        <td></td>
-        <td></td>
-        <td>2/5</td>
-        <td>软件著作权</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>投射光强度可调的汽车用车窗</td>
-        <td></td>
-        <td></td>
-        <td>2/2</td>
-        <td>实用新型专利</td>
-    </tr>
-</table>
+## 文章发表
+* 《梯度优化方法在多重网格尺波形反演中的应用研究》，```EI```检索，已发表，第一作者，多节点并行；
+* 《基于弹性波动方程的TTI介质逆时偏移与ADCIGs提取》，```SCI```检索，已录用，通讯作者，GPU多线程；
+* 《三维声波有限差分正演模拟》，会议，已发表，第一作者，MPI并行；
+* 《基于GPU加速的弹性波TTI介质正演模拟》，会议，已发表，第一作者，GPU多线程；
+* 《三维Poynting矢量及成像优化》，会议，已发表，第一走着，MPI并行；
+* 《三维VTI介质逆时偏移成像方法研究》，会议，已发表，第一作者，GPU多线程；
+* *Multi-grid Tomography Inversion Based on Gauss Bean Migration，SEG；
+
+## 软件著作&实用新型专利
+* 多分量地震数据联合成像软件，```2016SR166330```，2/5；
+* 投射光强度可调的汽车用车窗，```ZL 2013 2 0247458.8```，2/2；
 
 ## 个人HPC作品
 <table>
