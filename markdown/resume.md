@@ -63,6 +63,7 @@
         <td>1</td>
         <td>2</td>
         <td>3</td>
+        <td>...</td>
     </tr>
     <tr>
         <td>计算机语言</td>
@@ -72,9 +73,15 @@
     </tr>
     <tr>
         <td>高性能运算</td>
-        <td>CUDA</td>
-        <td>MPI</td>
-        <td>OpenMP</td>
+        <td>CUDA（GPU加速）</td>
+        <td>MPI（多节点）</td>
+        <td>OpenMP（多线程）</td>
+    </tr>
+    <tr>
+        <td>GUI图形用户界面</td>
+        <td>GTK（GNU ToolKit）</td>
+        <td>Java AWT/Swing</td>
+        <td>Qt-QApplication</td>
     </tr>
 </table>
 
