@@ -55,7 +55,7 @@
     </tr>
 </table>
 
-## 个人能力
+## 编程能力
 
 <table>
     <tr>
@@ -88,5 +88,29 @@
     </tr>
 </table>
 
+## 专业技能
 
+<table>
+    <tr>
+        <td>地震波传播与成像</td>
+        <td>全波形反演（FWI）</td>
+        <td>正演模拟（FD）</td>
+        <td>偏移成像</td>
+        <td>备注</td>
+    </tr>
+    <tr>
+        <td>实现语言</td>
+        <td>C，MPI</td>
+        <td>C，CUDA/OpenMP</td>
+        <td>C，CUDA</td>
+        <td>部分封装GUI</td>
+    </tr>
+    <tr>
+        <td>对应研究成果</td>
+        <td>EI 1篇（第一作者，已发表）</td>
+        <td>会议 2篇（第一作者）</td>
+        <td>SCI 1篇（通讯作者，已录用），会议 3篇</td>
+        <td></td>
+    </tr>
+</table>
 
