@@ -60,10 +60,21 @@
 <table>
     <tr>
         <td></td>
-        <td>计</td>
-        <td>学校</td>
-        <td>专业</td>
-        <td>备注</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>计算机语言</td>
+        <td>GCC/C</td>
+        <td>Java</td>
+        <td>Matlab</td>
+    </tr>
+    <tr>
+        <td>高性能运算</td>
+        <td>CUDA</td>
+        <td>MPI</td>
+        <td>OpenMP</td>
     </tr>
 </table>
 
