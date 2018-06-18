@@ -187,7 +187,15 @@
         <td></td>
         <td></td>
         <td>2/5</td>
-        <td>软件</td>
+        <td>软件著作权</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>投射光强度可调的汽车用车窗</td>
+        <td></td>
+        <td></td>
+        <td>2/2</td>
+        <td>实用新型专利</td>
     </tr>
 </table>
 
