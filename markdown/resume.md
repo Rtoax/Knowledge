@@ -108,7 +108,7 @@
         <td>部分封装GUI</td>
     </tr>
     <tr>
-        <th>对应研究成果</th>
+        <th>研究论文</th>
         <td>EI 1篇</td>
         <td>会议 2篇</td>
         <td>SCI 1篇，会议 3篇</td>
