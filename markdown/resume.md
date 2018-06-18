@@ -6,15 +6,6 @@
 
 ## 基本信息
 <table>
-    <thead>
-        <tr>
-            <th>名称</th>
-            <th>值</th>
-            <th>备注</th>
-        </tr>
-    </thead>
-</table>
-<table>
     <tr>
         <th>姓名</th>
         <th>出生年月</th>
@@ -28,10 +19,10 @@
         <td>地球探测与信息技术</td>
     </tr>
     <tr>
-        <td>邮箱</td>
-        <td>电话</td>
-        <td>籍贯</td>
-        <td>意向</td>
+        <th>邮箱</th>
+        <th>电话</th>
+        <th>籍贯</th>
+        <th>意向</th>
     </tr>
     <tr>
         <td>2386499836@qq.com</td>
@@ -44,11 +35,11 @@
 ## 学习生涯
 <table>
     <tr>
-        <td>学历</td>
-        <td>时间</td>
-        <td>学校</td>
-        <td>专业</td>
-        <td>备注</td>
+        <th>学历</th>
+        <th>时间</th>
+        <th>学校</th>
+        <th>专业</th>
+        <th>备注</th>
     </tr>
     <tr>
         <td>硕士</td>
@@ -69,12 +60,12 @@
 ## 编程能力
 <table>
     <tr>
-        <td>编程能力</td>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>平台</td>
-        <td>备注</td>
+        <th>编程能力</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>平台</th>
+        <th>备注</th>
     </tr>
     <tr>
         <td>计算机语言</td>
@@ -105,21 +96,21 @@
 ## 研究方向
 <table>
     <tr>
-        <td>研究方向</td>
-        <td>全波形反演（FWI）</td>
-        <td>正演模拟（FD）</td>
-        <td>偏移成像</td>
-        <td>备注</td>
+        <th>研究方向</th>
+        <th>全波形反演（FWI）</th>
+        <th>正演模拟（FD）</th>
+        <th>偏移成像</th>
+        <th>备注</th>
     </tr>
     <tr>
-        <td>实现语言</td>
+        <th>实现语言</th>
         <td>C，MPI</td>
         <td>C，CUDA/OpenMP，Java</td>
         <td>C，CUDA</td>
         <td>部分封装GUI</td>
     </tr>
     <tr>
-        <td>对应研究成果</td>
+        <th>对应研究成果</th>
         <td>EI 1篇</td>
         <td>会议 2篇</td>
         <td>SCI 1篇，会议 3篇</td>
@@ -144,41 +135,41 @@
 <table>
     <tr>
         <td>序号</td>
-        <td>方向</td>
-        <td>语言</td>
-        <td>HPC</td>
-        <td>网址</td>
+        <th>方向</th>
+        <th>语言</th>
+        <th>HPC</th>
+        <th>网址</th>
     </tr>
     <tr>
-        <td>1</td>
+        <th>1</th>
         <td>二、三维VTI介质正演模拟软件</td>
         <td>GCC/C,GTK</td>
         <td>CUDA(GPU)</td>
         <td>https://github.com/Rtoax/VTI-FD-CUDA-GTK</td>
     </tr>
     <tr>
-        <td>2</td>
+        <th>2</th>
         <td>二、三维TTI介质逆时偏移成像</td>
         <td>GCC/C</td>
         <td>CUDA(GPU)</td>
         <td>https://github.com/Rtoax/2D3D-TI-FD-RTM-cuda</td>
     </tr>
     <tr>
-        <td>3</td>
+        <th>3</th>
         <td>二维VTI介质逆时偏移成像</td>
         <td>GCC/C</td>
         <td>MPI(多节点/核)</td>
         <td>https://github.com/Rtoax/2D-VTI-FD-RTM-mpich</td>
     </tr>
     <tr>
-        <td>4</td>
+        <th>4</th>
         <td>三维全波形反演</td>
         <td>GCC/C</td>
         <td>MPI(多节点/核)</td>
         <td>https://github.com/Rtoax/3D-ISO-FD-FWI-mpich</td>
     </tr>
     <tr>
-        <td>5</td>
+        <th>5</th>
         <td>VTI介质正演模拟和射线追踪可视化</td>
         <td>Java,GCC/C</td>
         <td>AWT/Swing,JNI</td>
