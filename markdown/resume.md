@@ -30,6 +30,52 @@
     </tr>
 </table>
 
+## ```个人HPC作品```
+<table>
+    <tr>
+        <td></td>
+        <th>方向</th>
+        <th>语言</th>
+        <th>HPC</th>
+        <th>网址</th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <td>二、三维VTI介质正演模拟软件</td>
+        <td>GCC/C,GTK</td>
+        <td>CUDA(GPU)</td>
+        <td>https://github.com/Rtoax/VTI-FD-CUDA-GTK</td>
+    </tr>
+    <tr>
+        <th>2</th>
+        <td>二、三维TTI介质逆时偏移成像</td>
+        <td>GCC/C</td>
+        <td>CUDA(GPU)</td>
+        <td>https://github.com/Rtoax/2D3D-TI-FD-RTM-cuda</td>
+    </tr>
+    <tr>
+        <th>3</th>
+        <td>二维VTI介质逆时偏移成像</td>
+        <td>GCC/C</td>
+        <td>MPI(多节点/核)</td>
+        <td>https://github.com/Rtoax/2D-VTI-FD-RTM-mpich</td>
+    </tr>
+    <tr>
+        <th>4</th>
+        <td>三维全波形反演</td>
+        <td>GCC/C</td>
+        <td>MPI(多节点/核)</td>
+        <td>https://github.com/Rtoax/3D-ISO-FD-FWI-mpich</td>
+    </tr>
+    <tr>
+        <th>5</th>
+        <td>VTI介质正演模拟和射线追踪可视化</td>
+        <td>Java,GCC/C</td>
+        <td>AWT/Swing,JNI</td>
+        <td>https://github.com/Rtoax/Seismic-Processing</td>
+    </tr>
+</table>
+
 ## ```学习生涯```
 <table>
     <tr>
@@ -128,52 +174,6 @@
 ## ```软件著作&实用新型专利```
 * 多分量地震数据联合成像软件，```2016SR166330```，2/5；
 * 投射光强度可调的汽车用车窗，```ZL 2013 2 0247458.8```，2/2；
-
-## ```个人HPC作品```
-<table>
-    <tr>
-        <td></td>
-        <th>方向</th>
-        <th>语言</th>
-        <th>HPC</th>
-        <th>网址</th>
-    </tr>
-    <tr>
-        <th>1</th>
-        <td>二、三维VTI介质正演模拟软件</td>
-        <td>GCC/C,GTK</td>
-        <td>CUDA(GPU)</td>
-        <td>https://github.com/Rtoax/VTI-FD-CUDA-GTK</td>
-    </tr>
-    <tr>
-        <th>2</th>
-        <td>二、三维TTI介质逆时偏移成像</td>
-        <td>GCC/C</td>
-        <td>CUDA(GPU)</td>
-        <td>https://github.com/Rtoax/2D3D-TI-FD-RTM-cuda</td>
-    </tr>
-    <tr>
-        <th>3</th>
-        <td>二维VTI介质逆时偏移成像</td>
-        <td>GCC/C</td>
-        <td>MPI(多节点/核)</td>
-        <td>https://github.com/Rtoax/2D-VTI-FD-RTM-mpich</td>
-    </tr>
-    <tr>
-        <th>4</th>
-        <td>三维全波形反演</td>
-        <td>GCC/C</td>
-        <td>MPI(多节点/核)</td>
-        <td>https://github.com/Rtoax/3D-ISO-FD-FWI-mpich</td>
-    </tr>
-    <tr>
-        <th>5</th>
-        <td>VTI介质正演模拟和射线追踪可视化</td>
-        <td>Java,GCC/C</td>
-        <td>AWT/Swing,JNI</td>
-        <td>https://github.com/Rtoax/Seismic-Processing</td>
-    </tr>
-</table>
 
 ## ```兴趣爱好&职业规划```
 * 喜欢科研工作，对地学研究充满兴趣，目前从事```勘探地球物理```方向的地震波正演与偏移成像研究工作；
