@@ -88,7 +88,7 @@
     </tr>
 </table>
 
-## 专业技能
+## 研究方向
 
 <table>
     <tr>
@@ -119,7 +119,7 @@
 <table>
     <tr>
         <td>编号</td>
-        <td>论文</td>
+        <td>论文||软件||专利</td>
         <td>检索</td>
         <td>状态</td>
         <td>位次</td>
@@ -180,6 +180,14 @@
         <td>已发表</td>
         <td>第三作者</td>
         <td>SEG</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>多分量地震数据联合成像软件</td>
+        <td></td>
+        <td></td>
+        <td>2/5</td>
+        <td>软件</td>
     </tr>
 </table>
 
