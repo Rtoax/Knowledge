@@ -101,7 +101,7 @@
     <tr>
         <td>实现语言</td>
         <td>C，MPI</td>
-        <td>C，CUDA/OpenMP</td>
+        <td>C，CUDA/OpenMP，Java</td>
         <td>C，CUDA</td>
         <td>部分封装GUI</td>
     </tr>
@@ -111,6 +111,35 @@
         <td>会议 2篇</td>
         <td>SCI 1篇，会议 3篇</td>
         <td></td>
+    </tr>
+</table>
+
+## 成果明细
+
+<table>
+    <tr>
+        <td>编号</td>
+        <td>论文</td>
+        <td>检索</td>
+        <td>状态</td>
+        <td>位次</td>
+        <td>备注</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>梯度优化方法在多重网格尺波形反演中的应用研究</td>
+        <td>EI</td>
+        <td>已发表</td>
+        <td>第一作者</td>
+        <td>多节点并行运算</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>基于弹性波动方程的TTI介质逆时偏移与ADCIGs提取</td>
+        <td>SCI</td>
+        <td>已录用</td>
+        <td>通讯作者</td>
+        <td>GPU多线程加速</td>
     </tr>
 </table>
 
