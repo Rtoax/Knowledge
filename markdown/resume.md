@@ -78,7 +78,7 @@
         <td>OpenMP（多线程）</td>
     </tr>
     <tr>
-        <td>GUI图形用户界面</td>
+        <td>图形用户界面</td>
         <td>GTK（GNU ToolKit）</td>
         <td>Java AWT/Swing</td>
         <td>Qt-QApplication</td>
