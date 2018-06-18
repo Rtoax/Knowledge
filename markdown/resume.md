@@ -55,4 +55,17 @@
     </tr>
 </table>
 
+## 个人能力
+
+<table>
+    <tr>
+        <td></td>
+        <td>计</td>
+        <td>学校</td>
+        <td>专业</td>
+        <td>备注</td>
+    </tr>
+</table>
+
+
 
