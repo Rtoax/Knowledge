@@ -1,4 +1,4 @@
-Copyright(C) NCURSES Programming HOWTO
+* Copyright(C) ```NCURSES Programming HOWTO```
 
 ## 输出修饰
 
