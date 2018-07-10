@@ -20,13 +20,13 @@
         <th>邮箱</th>
         <th>电话</th>
         <th>籍贯</th>
-        <th>意向</th>
+        <th></th>
     </tr>
     <tr>
         <td>2386499836@qq.com</td>
         <td>183 5324 4182</td>
         <td>河北省三河市</td>
-        <td>科研助理</td>
+        <td></td>
     </tr>
 </table>
 
